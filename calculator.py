@@ -6,7 +6,6 @@ num2 = float(input("Enter second number: "))
 
 if operator == "+":
     print("Result:", num1 + num2)
-
 elif operator == "-":
     print("Result:", num1 - num2)
 
