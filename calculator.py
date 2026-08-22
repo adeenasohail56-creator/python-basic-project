@@ -17,6 +17,5 @@ elif operator == "/":
         print("Result:", num1 / num2)
     else:
         print("Error: Cannot divide by zero")
-
 else:
     print("Invalid operator")
